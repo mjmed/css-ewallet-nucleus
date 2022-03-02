@@ -25,3 +25,9 @@ Incluye:
 #### Librerías y recursos utilizados:
 + [**Normalize.css**](https://necolas.github.io/normalize.css/)
 + [Fuente **Poppins**](https://fonts.google.com/specimen/Poppins?query=Poppins)
+
+
+#### Versión: 1.0.0
+
+
+#### Site URL: [Nucleus](https://wtest-nucleus.netlify.app/)
